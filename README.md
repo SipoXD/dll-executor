@@ -1,2 +1,2 @@
-# dll-executor
+# dll-injector
 simple dll injector
